@@ -1,0 +1,334 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 425vh;
+}
+
+.nav1 {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    gap: 580px;
+    position: fixed;
+    z-index: 2;
+}
+
+.logo {
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+}
+
+nav {
+    padding: 15px 0;
+    border-radius: 7px;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+strong,
+ul,
+li {
+    display: inline-block;
+}
+
+
+
+.img {
+    width: 700px;
+    height: 500px;
+    margin-left: 517px;
+    margin-top: -310px;
+    object-fit: cover
+}
+
+.TOYOTA {
+    margin-top: 150px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.sw4 {
+    margin-left: 80px;
+    margin-top: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.ano {
+    margin-left: 80px;
+    margin-top: 25px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.h4 {
+    margin-left: 78px;
+    margin-top: 1px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.km {
+    margin-left: 160px;
+    margin-top: -12px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.h5 {
+    margin-left: 160px;
+    margin-top: -18px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.font {
+    font-family: "Open Sans", sans-serif;
+}
+
+.btn {
+    width: 130px;
+    height: 25px;
+    margin-left: 70px;
+    margin-top: 10px;
+    border-radius: 12px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.img1 {
+    width: 550px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: -170px;
+    object-fit: cover
+}
+
+.TOYOTA2 {
+    margin-top: 70px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.sw42 {
+    margin-left: 80px;
+    margin-top: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.ima {
+    margin-top: 30px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.ficha {
+    margin-top: 20px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.detal {
+    margin-top: 15px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.button {
+    width: 130px;
+    height: 25px;
+    background-color: rgb(242, 237, 237);
+    border: none;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: 30px;
+    color: gray;
+    cursor: pointer;
+}
+
+span {
+    color: black;
+}
+
+.div1 {
+    width: 690px;
+    height: 360px;
+    border-radius: 10px;
+    margin-left: 470px;
+    margin-top: -170px;
+    border: 1px solid rgba(0, 0, 0, 0.295);
+}
+
+.motor {
+    margin-left: 50px;
+    margin-top: 40px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.cil {
+    margin-left: 50px;
+    margin-top: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.transmissao {
+    margin-left: 50px;
+    margin-top: 0px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.automa {
+    margin-left: 50px;
+    margin-top: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.div2 {
+    margin-left: 220px;
+    margin-top: -297px;
+}
+
+.div3 {
+    margin-left: 430px;
+    margin-top: -330px;
+}
+
+.ima1 {
+    margin-top: 30px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(96, 93, 93)
+}
+
+.ficha1 {
+    margin-top: 20px;
+    margin-left: 80px;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+.div4 {
+    width: 400px;
+    height: 800px;
+    margin-left: 500px;
+    margin-top: -170px;
+}
+
+.p {
+    width: 90%;
+    text-align: justify;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+.coe {
+    margin-left: 120px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.input {
+    width: 80%;
+    height: 190px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+input {
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 60px;
+    gap: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.btn2 {
+    width: 150px;
+    height: 27px;
+    border: none;
+    margin-left: 40px;
+    background-color: black;
+    color: rgb(76, 73, 73);
+    border-radius: 5px;
+}
+
+
+
+
+
+.footer {
+    margin-left: 80px;
+    margin-top: 40px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.footer2 {
+    font-family: "Open Sans", sans-serif;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+
+.footer3 {
+    font-family: "Open Sans", sans-serif;
+    margin-left: 350px;
+}
+
+.footer4 {
+    font-family: "Open Sans", sans-serif;
+    margin-left: 445px;
+    margin-top: -12px;
+}
+
+.footer5 {
+    margin-left: 350px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.footer6 {
+    font-family: "Open Sans", sans-serif;
+    margin-left: 940px;
+    margin-top: -70px;
+}
+
+.input2 {
+    width: 10%;
+    margin-left: 940px;
+    margin-top: 20px;
+}
+
+.tugma {
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    margin-left: 15px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(74, 70, 70);
+    margin-top: 18px;
+}
+
+.font {
+    font-family: "Open Sans", sans-serif;
+}
